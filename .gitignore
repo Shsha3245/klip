@@ -1,0 +1,16 @@
+# Downloaded recordings and generated clips
+/yayin.mp4
+/chat.json
+/klipler/
+
+# Downloaded third-party executables and their bundled metadata
+/ffmpeg.exe
+/ffprobe.exe
+/TwitchDownloaderCLI.exe
+/rekick.exe
+/yt-dlp.exe
+/libHarfBuzzSharp.pdb
+/version.json
+/COPYRIGHT.txt
+/THIRD-PARTY-LICENSES.txt
+/readme.txt
